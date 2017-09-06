@@ -1,4 +1,5 @@
 /target/
+example.log
 .classpath
 .project
 .settings/
